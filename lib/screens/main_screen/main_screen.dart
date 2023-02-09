@@ -74,6 +74,9 @@ class _MainScreenState extends State<MainScreen> {
                 Row(
                   children: [
                     Image.asset('assets/images/rawda.png'),
+                    SizedBox(
+                      width: 13.w,
+                    ),
                     Image.asset('assets/images/logo.png'),
                   ],
                 ),
