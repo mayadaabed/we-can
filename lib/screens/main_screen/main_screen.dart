@@ -133,7 +133,7 @@ class _MainScreenState extends State<MainScreen> {
                 enableInfiniteScroll: false,
                 reverse: false,
                 autoPlay: true,
-                autoPlayInterval: const Duration(seconds: 3),
+                autoPlayInterval: const Duration(seconds: 8),
                 autoPlayAnimationDuration: const Duration(milliseconds: 800),
                 autoPlayCurve: Curves.linearToEaseOut,
                 enlargeCenterPage: true,
